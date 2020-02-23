@@ -6,6 +6,7 @@ public class happy {
         System.out.println("next");
         System.out.println("right");
         System.out.println("right");
+        System.out.println("hot_fix");
             }
 
 }
